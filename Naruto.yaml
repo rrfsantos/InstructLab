@@ -81,6 +81,6 @@ document_outline: |
   Provides information about the anime Naruto.
 
 document:
-  repo: https://github.com/juliadenham/Summit_knowledge.git
-  commit: 5f7158a5ce83c4ff493bfe341fe31ecad64ff697
+  repo: https://github.com/rrfsantos/InstructLab/blob/main/Naruto.yaml
+  commit: 
   
