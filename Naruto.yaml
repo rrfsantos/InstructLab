@@ -81,6 +81,5 @@ document_outline: |
   Provides information about the anime Naruto.
 
 document:
-  repo: https://github.com/rrfsantos/InstructLab/blob/main/Naruto.yaml
-  commit: 
+  repo: https://github.com/rrfsantos/InstructLab/blob/main/qna.yaml
   
